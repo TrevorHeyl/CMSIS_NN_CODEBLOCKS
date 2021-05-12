@@ -12,15 +12,15 @@ The CMSIS-NN source is not included in this project git.  You need to download t
 
 * Get the CMSIS-NN source from https://github.com/ARM-software/CMSIS_5 as a zip file
 * Extract the file , we want only the CMSIS folder and its contents (including all subdirectories)
-* Create a new CodeBLocks Console application - specify a C rproject
-* Copy the CMSIS folde rinto the root of this project
+* Create a new CodeBlocks Console application - specify a C project
+* Copy the CMSIS folder into the root of this project
 * Change the project build options -> Search paths, add :
 ** CMSIS\NN\include
 ** CMSIS\Core\include
 ** CMSIS\DSP\Include ( for ARM stuff)
 ** CMSIS\NN\Examples\ARM\arm_nn_examples\cifar10 ( for the example code)
 * Add all the sources from CMSIS\NN\Source to the source tree
-* Delete the defualt content from main.c
+* Delete the default content from main.c
 * Copy the contents of CMSIS\NN\Examples\ARM\arm_nn_examples\cifar10\arm_nnexamples_cifar10.cpp to the main.c file
 * Build and Run
 
