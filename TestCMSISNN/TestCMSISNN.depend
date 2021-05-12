@@ -1,0 +1,325 @@
+# depslib dependency file v1.0
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\activationfunctions\arm_nn_activations_q15.c
+	"arm_nn_tables.h"
+	"arm_nnfunctions.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\include\arm_nn_tables.h
+	"arm_math_types.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\dsp\include\arm_math_types.h
+	<stdint.h>
+	<stdint.h>
+	"cmsis_compiler.h"
+	<string.h>
+	<math.h>
+	<float.h>
+	<limits.h>
+	<arm_neon.h>
+	<arm_mve.h>
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\core\include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\core\include\cmsis_armcc.h
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\core\include\cmsis_armclang_ltm.h
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\core\include\cmsis_armclang.h
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\core\include\cmsis_gcc.h
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\core\include\cmsis_iccarm.h
+	"iccarm_builtin.h"
+	<intrinsics.h>
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\include\arm_nnfunctions.h
+	"arm_math_types.h"
+	"arm_nn_types.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\include\arm_nn_types.h
+	<stdint.h>
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\activationfunctions\arm_nn_activations_q7.c
+	"arm_nn_tables.h"
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\activationfunctions\arm_relu6_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\include\arm_nnsupportfunctions.h
+	"arm_common_tables.h"
+	"arm_math_types.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\dsp\include\arm_common_tables.h
+	"arm_math_types.h"
+	"dsp/fast_math_functions.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\dsp\include\dsp\fast_math_functions.h
+	"arm_math_types.h"
+	"arm_math_memory.h"
+	"dsp/none.h"
+	"dsp/utils.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\dsp\include\arm_math_memory.h
+	"arm_math_types.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\dsp\include\dsp\none.h
+	"arm_math_types.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\dsp\include\dsp\utils.h
+	"arm_math_types.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\activationfunctions\arm_relu_q15.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\activationfunctions\arm_relu_q7.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\basicmathfunctions\arm_elementwise_add_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+	"arm_helium_utils.h"
+
+1620784694 e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\dsp\include\arm_helium_utils.h
+	"arm_common_tables.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\basicmathfunctions\arm_elementwise_mul_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\concatenationfunctions\arm_concatenation_s8_w.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\concatenationfunctions\arm_concatenation_s8_x.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\concatenationfunctions\arm_concatenation_s8_y.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\concatenationfunctions\arm_concatenation_s8_z.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_1_x_n_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_1x1_hwc_q7_fast_nonsquare.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_1x1_s8_fast.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q15_basic.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q15_fast.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q15_fast_nonsquare.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q7_basic.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q7_basic_nonsquare.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q7_fast.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q7_fast_nonsquare.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_hwc_q7_rgb.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_convolve_wrapper_s8.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_depthwise_conv_3x3_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_depthwise_conv_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_depthwise_conv_s8_opt.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_depthwise_conv_u8_basic_ver1.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_depthwise_conv_wrapper_s8.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_depthwise_separable_conv_hwc_q7.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_depthwise_separable_conv_hwc_q7_nonsquare.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_nn_depthwise_conv_s8_core.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_nn_mat_mult_kernel_q7_q15.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_nn_mat_mult_kernel_q7_q15_reordered.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_nn_mat_mult_kernel_s8_s16.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_nn_mat_mult_kernel_s8_s16_reordered.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\convolutionfunctions\arm_nn_mat_mult_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\fullyconnectedfunctions\arm_fully_connected_mat_q7_vec_q15.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\fullyconnectedfunctions\arm_fully_connected_mat_q7_vec_q15_opt.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\fullyconnectedfunctions\arm_fully_connected_q15.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\fullyconnectedfunctions\arm_fully_connected_q15_opt.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\fullyconnectedfunctions\arm_fully_connected_q7.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\fullyconnectedfunctions\arm_fully_connected_q7_opt.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\fullyconnectedfunctions\arm_fully_connected_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_accumulate_q7_to_q15.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_add_q7.c
+	"arm_nn_tables.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_depthwise_conv_nt_t_padded_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_depthwise_conv_nt_t_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_mat_mul_core_1x_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_mat_mul_core_4x_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_mat_mult_nt_t_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_mult_q15.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_mult_q7.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_vec_mat_mult_t_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nn_vec_mat_mult_t_svdf_s8.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_nntables.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_q7_to_q15_no_shift.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_q7_to_q15_reordered_no_shift.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_q7_to_q15_reordered_with_offset.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\nnsupportfunctions\arm_q7_to_q15_with_offset.c
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\poolingfunctions\arm_avgpool_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\poolingfunctions\arm_max_pool_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\poolingfunctions\arm_pool_q7_hwc.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\reshapefunctions\arm_reshape_s8.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\softmaxfunctions\arm_softmax_q15.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\softmaxfunctions\arm_softmax_q7.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\softmaxfunctions\arm_softmax_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\softmaxfunctions\arm_softmax_u8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\softmaxfunctions\arm_softmax_with_batch_q7.c
+	"arm_nnfunctions.h"
+
+1620784694 source:e:\trev\projects\guides\machinelearning\codeblocks_cmsis_nn\cmsis\nn\source\svdfunctions\arm_svdf_s8.c
+	"arm_nnfunctions.h"
+	"arm_nnsupportfunctions.h"
+

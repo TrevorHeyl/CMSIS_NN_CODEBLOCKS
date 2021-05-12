@@ -1,0 +1,1 @@
+Extract the CMSIS-NN zip file from  https://github.com/ARM-software/CMSIS_5 and then cop y ONLY the CMSIS folder contents into this folder
