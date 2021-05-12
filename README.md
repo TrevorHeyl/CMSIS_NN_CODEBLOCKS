@@ -6,7 +6,7 @@ The CMSIS-NN library includes all source.  This shell project uses the CIFAR-10 
 this project was tested with the MINGW compiler toolchain
 
 ## NOTE:
-The CMSIS-NN source isnot included in this project git.  You need to download that from https://github.com/ARM-software/CMSIS_5 as a zip file and copy the content of the CMSIS folder to your local CMSIS folder once you have cloned this porject
+The CMSIS-NN source is not included in this project git.  You need to download that from https://github.com/ARM-software/CMSIS_5 as a zip file and copy the content of the CMSIS folder to your local CMSIS folder once you have cloned this porject
 
 ## If you want to create a CodeBlocks project yourself from scratch, follow these steps
 
