@@ -24,3 +24,22 @@ The CMSIS-NN source is not included in this project git.  You need to download t
 * Copy the contents of CMSIS\NN\Examples\ARM\arm_nn_examples\cifar10\arm_nnexamples_cifar10.cpp to the main.c file
 * Build and Run
 
+If you have succesfully done all the steps you will see output like this :
+'''
+start execution
+0: 0
+1: 0
+2: 0
+3: 0
+4: 0
+5: 0
+6: 0
+7: 0
+8: 127
+9: 0
+
+Process returned 0 (0x0)   execution time : 0.031 s
+Press any key to continue.
+'''
+
+
