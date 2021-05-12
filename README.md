@@ -25,7 +25,7 @@ The CMSIS-NN source is not included in this project git.  You need to download t
 * Build and Run
 
 If you have succesfully done all the steps you will see output like this :
-'''
+```
 start execution
 0: 0
 1: 0
@@ -40,6 +40,6 @@ start execution
 
 Process returned 0 (0x0)   execution time : 0.031 s
 Press any key to continue.
-'''
+```
 
 
